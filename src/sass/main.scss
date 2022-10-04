@@ -1,10 +1,11 @@
 @import 'variables';
 @import 'sprites';
 @import 'breakpoints';
+@import 'slider';
 
 
 body {
-    background: red;
+    background: $body-bg;
 }
 
 .arrowIcon {

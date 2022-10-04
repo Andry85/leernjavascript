@@ -1,2 +1,2 @@
 import '../sass/main.scss';
-import './blocks/header/header';
+import './blocks/slider/slider';
