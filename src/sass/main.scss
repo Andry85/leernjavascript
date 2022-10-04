@@ -1,0 +1,15 @@
+@import 'variables';
+@import 'sprites';
+@import 'breakpoints';
+
+
+body {
+    background: red;
+}
+
+.arrowIcon {
+    @include sprite('arrow');
+    width: 9px;
+    height: 16px;
+}
+
